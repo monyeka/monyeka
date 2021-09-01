@@ -2,7 +2,7 @@
 - 👀 I’m interested in analytics project
 - 🌱 I’m currently learning Python and R
 - 💞️ I’m looking to collaborate on exciting projects
-- 📫 How to reach me send me an email: ezealigokachi@gmail.com
+- 📫 How to reach me send me an email: ezealigokachi1@outlook.com
 
 <!---
 monyeka/monyeka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
